@@ -1,2 +1,2 @@
-# roll-a-dice-game /br
-you can play this game <a src:"https://mobinshahidi.github.io/roll-a-dice-game/">here.</a>
+# roll-a-dice-game 
+you can play this game [here!](https://mobinshahidi.github.io/roll-a-dice-game/)
